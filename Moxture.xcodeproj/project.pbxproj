@@ -30,6 +30,7 @@
 		52FB27A225D688DC003DC5F5 /* Containers+Fixturable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FB27A125D688DC003DC5F5 /* Containers+Fixturable.swift */; };
 		52FB27A825D69AF8003DC5F5 /* FixturableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FB27A725D69AF8003DC5F5 /* FixturableTests.swift */; };
 		52FB27AC25D6A412003DC5F5 /* FixturableContainersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FB27AB25D6A412003DC5F5 /* FixturableContainersTests.swift */; };
+		A236209426EDA6D900212296 /* SimplePropMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = A236209326EDA6D900212296 /* SimplePropMock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		52FB27A125D688DC003DC5F5 /* Containers+Fixturable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Containers+Fixturable.swift"; sourceTree = "<group>"; };
 		52FB27A725D69AF8003DC5F5 /* FixturableTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixturableTests.swift; sourceTree = "<group>"; };
 		52FB27AB25D6A412003DC5F5 /* FixturableContainersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixturableContainersTests.swift; sourceTree = "<group>"; };
+		A236209326EDA6D900212296 /* SimplePropMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplePropMock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				52FB276525D5409C003DC5F5 /* PropMock.swift */,
 				525F7DB725D7F7400011AE4F /* PropMock+Fixturable.swift */,
 				525F7DBD25D7F74B0011AE4F /* PropMock+Init.swift */,
+				A236209326EDA6D900212296 /* SimplePropMock.swift */,
 				52FB271E25D532A5003DC5F5 /* Info.plist */,
 			);
 			path = Moxture;
@@ -258,6 +261,7 @@
 				52FB276625D5409C003DC5F5 /* PropMock.swift in Sources */,
 				52FB276A25D540AB003DC5F5 /* Fixturable.swift in Sources */,
 				52FB276225D54094003DC5F5 /* FuncMock.swift in Sources */,
+				A236209426EDA6D900212296 /* SimplePropMock.swift in Sources */,
 				525F7DAC25D7F50B0011AE4F /* FuncMock+Init.swift in Sources */,
 				525F7DBE25D7F74B0011AE4F /* PropMock+Init.swift in Sources */,
 				52FB279C25D68776003DC5F5 /* BasicTypes+Fixturable.swift in Sources */,
